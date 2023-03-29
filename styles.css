@@ -1,0 +1,10 @@
+body { 
+    background: url(images/plane.png) no-repeat center center fixed; 
+    background-size: cover;
+  }
+  .row{
+    margin-top: 10%;
+  }
+  h2{
+    text-align: center;
+  }
